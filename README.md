@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Velmurugan
+- 👋 Hi, I’m Velmurugan, Data Science enthusiast.
 - 👀 I’m interested in Computer Vision
 - 🌱 I’m currently learning Deep Learning
 - 📫 How to reach me: velu9598@gmail.com
